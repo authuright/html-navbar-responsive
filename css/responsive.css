@@ -1,0 +1,9 @@
+@media (max-width: 767.98px) { 
+    .wrap-menu-nav .wrap-menu-list ul li {
+        /* display: block; */
+        visibility: hidden;
+    }
+    .btn-nav {
+        visibility: visible;
+    }
+ }
